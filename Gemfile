@@ -22,8 +22,7 @@ gem 'bootstrap',     '~> 4.6', '>= 4.6.2'
 gem 'coffee-rails', '~> 5.0'
 
 group :development do
-  # dev のファイル監視に必要
-  # gem 'listen', '~> 3.8'
+  gem 'listen', '~> 3.8'
 end
 
 # gem "bootsnap", require: false
