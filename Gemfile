@@ -18,8 +18,10 @@ gem 'will_paginate', '~> 3.3'
 gem 'jquery-rails', '~> 4.6'
 gem 'sassc-rails', '~> 2.1'
 gem 'popper_js',     '~> 1.16.0'
-gem 'bootstrap',     '~> 4.6', '>= 4.6.2'
+# gem 'bootstrap',     '~> 4.6', '>= 4.6.2'
 gem 'coffee-rails', '~> 5.0'
+gem 'bootstrap-sass', '~> 3.4.1'
+
 
 group :development do
   gem 'listen', '~> 3.8'
